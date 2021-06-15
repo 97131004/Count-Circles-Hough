@@ -2,7 +2,9 @@ Parallel Systems - SoSe 2020 - Group 02 - notpavlov
 
 # Count Circles Hough
 
-Tool to count the number of circles in a 2D image (view from above) using Circle Hough Transform (CHT) + visualization.
+Tool to count the number of circles in a 2D image (view from above) using Circle Hough Transform (CHT) + visualization. For this, an edge detection algorithm is first applied on the source image. Binning and spacing algorithms are then used to eliminate overlapping circles.
+
+![screenshot](https://github.com/notpavlov/Count-Circles-Hough/blob/main/screenshot.jpg?raw=true)
 
 ## Requirements
 
