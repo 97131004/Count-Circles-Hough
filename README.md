@@ -37,10 +37,6 @@ Example:
 
 Press the **R** key in a GUI window to rerun all algorithms and redraw all output images.
 
-## Doxygen
-
-Doxygen documentation is located at **CountCirclesHough/doc/html/index.html**
-
 ## License
 
 MIT
