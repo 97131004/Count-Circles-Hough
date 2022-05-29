@@ -1,6 +1,6 @@
 /*!
  *
- * \author notpavlov
+ * \author 97131004
  * \version 1.0
  * \copyright MIT License
  * \mainpage Documentation
