@@ -5,7 +5,7 @@
 /*!
  * \brief Performs hough transform algorithm.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class hough
 {

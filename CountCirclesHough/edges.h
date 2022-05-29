@@ -5,7 +5,7 @@
 /*!
  * \brief Collection of edge detection algorithms.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class edges
 {

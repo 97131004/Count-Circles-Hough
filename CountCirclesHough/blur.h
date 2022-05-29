@@ -5,7 +5,7 @@
 /*!
  * \brief Collection of blur filtering functions.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class blur
 {
